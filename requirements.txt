@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision
+numpy>=1.20.0
+scipy
+scikit-learn
+matplotlib
+pandas
+tqdm
+einops
+packaging
